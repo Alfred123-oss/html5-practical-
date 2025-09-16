@@ -1,4 +1,3 @@
-# html5-practical-
 Alfred's Poultry Farm-Kiambu (HTML5 Practical Project)
 
 Overview
